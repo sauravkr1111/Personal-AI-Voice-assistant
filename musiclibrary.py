@@ -1,6 +1,57 @@
 music = {
+      # Hindi
+    "sahiba": "https://open.spotify.com/track/0eLtIxPRNJfsmehITZ1qaJ?si=ff076a1a985a4a96",
+    "husn": "https://open.spotify.com/track/0TL0LFcwIBF5eX7arDIKxY?si=d282dd1319564861",
+    "heeriye": "https://open.spotify.com/track/5PUXKVVVQ74C3gl5vKy9Li?si=4ac4ee222d414209",
+    "hiriye" : "https://open.spotify.com/track/5PUXKVVVQ74C3gl5vKy9Li?si=4ac4ee222d414209",
+    "jo tum mere ho": "https://open.spotify.com/track/0eCajpR75pDW0r64U6hP2x?si=360f7f8442524793",
+    "chaleya": "https://open.spotify.com/track/4nc6XiUze2Yh7wFueGOPv7?si=de3fdfdc5e7d4191",
+    "kesariya": "https://open.spotify.com/track/6VBhH7CyP56BXjp8VsDFPZ?si=8de5d1d8441d4bb5",
+    "satranga": "https://open.spotify.com/track/3yHyiUDJdz02FZ6jfUbsmY?si=3485f45bd2404423",
+    "o mahi": "spotify:track:0qQ4IdhjzNr0gJhdMTf2n3",
+    "apna bana le": "https://open.spotify.com/track/1kDZSmw3mKQeAjcmPTLS3M?si=8141545d6469417c",
+    "tum kya mile": "https://open.spotify.com/track/1kDZSmw3mKQeAjcmPTLS3M?si=8141545d6469417c",
     "millionaire" : "https://open.spotify.com/track/78BWCd70D1X6LMkDZm1UoF?si=c9e5b0a3a13c4c7c",
     "love dose" : "https://open.spotify.com/track/1QZRCi2Z1DQQaR6bGAzhtN?si=893c3fb7e5604e58",
     "blue eyes" : "https://open.spotify.com/album/2iPimv2hsVBJZU1fvBfwkB?si=iRExX2_CQ0O8PxqCIM5gCg",
-    "payal" : "https://open.spotify.com/track/76ZWOhRRQzmb4xMoZzTjJ9?si=ef3af0ee74244581"
+    "payal" : "https://open.spotify.com/track/76ZWOhRRQzmb4xMoZzTjJ9?si=ef3af0ee74244581",
+    "bairan" : "https://open.spotify.com/track/0RsH8g8DxdYZgdGcod5I36?si=46dc045dc4b04dec",
+    "khat" : "https://open.spotify.com/track/3gixnmepHSsyAuho34rprN?si=ea356f9ab64d406f",
+    "dooron dooron" : "https://open.spotify.com/track/0q5e5KtUOhYQujmhLP0pKd?si=a0f6f3bd210f4e66",
+
+    # English
+    "die with a smile": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe?si=1a8defb7e0a04f1b",
+    "apt": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY?si=98664385643c42e1",
+    "birds of a feather": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB?si=284aea417a274d29",
+    "bird of a feather": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB?si=284aea417a274d29",
+    "espresso": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75?si=ae7844c814d64760",
+    "beautiful things": "spotify:track:6tNQ70jh4OwmPGpYy6R2o9",
+    "lose control": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk?si=06e658da50684e38",
+    "loose control": "https://open.spotify.com/track/6usohdchdzW9oML7VC4Uhk?si=06e658da50684e38",
+    "please please please": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP?si=81e421c86a3d45b1",
+    "greedy": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t?si=27adaf404b854b8c",
+    "we cant be friends": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t?si=27adaf404b854b8c",
+    "we can't be friends": "https://open.spotify.com/track/3rUGC1vUpkDG9CZFHMur1t?si=27adaf404b854b8c",
+    "fortnight": "https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m?si=987b36b2378c4779",
+    "fortnigt": "https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m?si=987b36b2378c4779",
+
+        # Punjabi
+    "tauba tauba": "https://open.spotify.com/track/16kiQQ4BoLHDyj5W2fkfNK?si=0fdcae4a38a147b0",
+    "softly": "https://open.spotify.com/track/0YQJoDL6f46J0n1rOVkpxJ?si=251242bab08b4e72",
+    "winning speech": "https://open.spotify.com/track/3FqtduiaqnFYvBgKuc6QWQ?si=7589f67e05814512",
+    "cheques": "spotify:track:4eBvRhTJ2AcxCsbfTUjoRp",
+    "brown munde": "https://open.spotify.com/track/58f4twRnbZOOVUhMUpplJ4?si=fe95178b6e754670",
+    "295": "https://open.spotify.com/track/5ira9VcDBJhaEVSrbHOlIK?si=fcd4a49258994923",
+    "obsessed": "spotify:track:6Z4rRhYZVQsYKmrxD40tru",
+    "born to shine": "https://open.spotify.com/track/4XxfOvudrnBRdlgzEaq1sd?si=a474eb774ccf444f",
+    "wavy": "https://open.spotify.com/track/4d2jV5fmX6hbRwaRbY39dt?si=52bc66df32734a3c",
+    "excuses": "https://open.spotify.com/track/29m79w9xPMH4YCD6r8JSmV?si=c19a91a1e5ec4b0f",
+
+     # Bollywood Classics
+    "tum hi ho": "https://open.spotify.com/track/56zZ48jdyY2oDXHVnwg5Di?si=0a550d8dc33b4f68",
+    "agar tum saath ho": "spotify:track:3hkC9EHFZNQPXrtl8WPHnX",
+    "kaise hua": "https://open.spotify.com/track/5w0Xpt2YHT2Y3z3e4UUJP7?si=9b755618cd7f47e9",
+    "raataan lambiyan": "https://open.spotify.com/track/2rOnSn2piaqLAlYjtfUBlY?si=ab7283a3dd2e4c99",
+    "rata lambiya": "https://open.spotify.com/track/2rOnSn2piaqLAlYjtfUBlY?si=ab7283a3dd2e4c99",
+    "shayad": "spotify:track:1smFN2CLqGROu0J0UyvDfL",
 }
